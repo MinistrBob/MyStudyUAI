@@ -348,5 +348,4 @@ healthchecksdb
 /**/venv/
 #SETTINGS.py
 test*.py
-portalgs/portalgs/PASSWORDS.py
-portalgs/static/**
+.ipynb_checkpoints/**

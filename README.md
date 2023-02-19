@@ -1,2 +1,2 @@
 # MyStudyUAI
-My studies at the university of artificial intelligence
+My studies at the University of Artificial Intelligence
